@@ -12,20 +12,22 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/DBATU-4F46E5?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Cummins-Scholar-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br><br>
 
 <a href="https://myportfolio-yogeshh.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/yogesh-chavan2a/">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:yogeshchavan2a@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/codewithyogeshh">
   <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -33,7 +35,9 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=codewithyogeshh&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
+
 <img src="https://img.shields.io/github/followers/codewithyogeshh?style=for-the-badge&color=4F46E5&label=FOLLOWERS" />
+
 <img src="https://img.shields.io/github/stars/codewithyogeshh?style=for-the-badge&color=7C3AED&label=STARS" />
 
 </div>
@@ -44,16 +48,17 @@
 
 I am a **Final-Year Computer Science & Engineering student** focused on building practical software products and exploring modern AI technologies.
 
-My work spans **full-stack web development, Flutter application development, AI/ML, automation, databases, and emerging Agentic AI systems**. I enjoy taking an idea from problem discovery to a working prototype and continuously improving it through engineering, experimentation, and user-focused thinking.
+My work spans **full-stack web development, Flutter application development, AI/ML, automation, databases, and Agentic AI systems**. I enjoy turning ideas into working software and continuously improving projects through engineering, experimentation, and problem-solving.
 
 I am particularly interested in:
 
-* Software engineering and scalable application development
-* AI/ML-powered products and intelligent automation
-* Full-stack web and mobile development
-* Data-driven applications and analytics
-* Developer tools and productivity systems
-* Building solutions for real-world problems
+- Software engineering and application development
+- AI/ML-powered applications
+- Full-stack web and mobile development
+- Data analytics and intelligent systems
+- Computer vision
+- Developer tools and productivity solutions
+- Real-world problem solving
 
 **Open To:** Software Engineering • Full-Stack Development • AI/ML • Data/Analytics • Hackathons • Open Source Collaboration
 
@@ -89,14 +94,14 @@ I am particularly interested in:
 
 ## AI / ML Expertise
 
-| Domain                     | Proficiency         | Details                                                                                     |
-| -------------------------- | ------------------- | ------------------------------------------------------------------------------------------- |
-| AI Application Development | Working             | Building applications around modern AI APIs and intelligent workflows                       |
-| Computer Vision            | Working             | Exploring image understanding, object/pose detection and accessibility-focused applications |
-| Generative AI              | Working             | Integrating generative AI capabilities into practical software projects                     |
-| Agentic AI                 | Learning & Building | Exploring AI agents, tool usage and automated workflows                                     |
-| Machine Learning           | Learning            | Strengthening ML concepts and practical implementation                                      |
-| Data Analytics             | Learning            | Exploring Python-based analytics, data processing and visualization                         |
+| Domain | Proficiency | Details |
+|---|---|---|
+| AI Application Development | Working | Building applications using modern AI APIs and intelligent workflows |
+| Computer Vision | Working | Exploring image understanding, object detection and pose estimation |
+| Generative AI | Working | Integrating generative AI capabilities into practical software projects |
+| Agentic AI | Learning & Building | Exploring AI agents, tool usage and automated workflows |
+| Machine Learning | Learning | Strengthening machine learning concepts and implementation |
+| Data Analytics | Learning | Exploring Python-based data processing, analysis and visualization |
 
 ---
 
@@ -109,22 +114,22 @@ I am particularly interested in:
 
 An AI-powered accessibility project designed to assist visually impaired users through scene understanding, voice interaction, object recognition and navigation-oriented assistance.
 
-| Category    | Details                                                      |
-| ----------- | ------------------------------------------------------------ |
-| Stack       | Gemini AI API • Android/Web Technologies • Voice Interaction |
-| Scale       | Accessibility-focused AI application                         |
-| Performance | Designed for responsive AI-assisted interaction              |
-| Security    | API-based architecture with controlled service access        |
-| Impact      | Designed to improve environmental awareness and independence |
-| Repository  | [VisionMate](https://github.com/codewithyogeshh)             |
+| Category | Details |
+|---|---|
+| Stack | Gemini AI API • Android/Web Technologies • Voice Interaction |
+| Scale | Accessibility-focused AI application |
+| Performance | Designed for responsive AI-assisted interaction |
+| Security | API-based architecture with controlled service access |
+| Impact | Designed to improve environmental awareness and independence |
+| Repository | [GitHub](https://github.com/codewithyogeshh) |
 
 **Engineering Focus**
 
-* AI-powered scene understanding
-* Voice-based interaction
-* Real-time environmental assistance
-* Object and obstacle awareness
-* Accessibility-first interaction design
+- AI-powered scene understanding
+- Voice-based interaction
+- Real-time environmental assistance
+- Object and obstacle awareness
+- Accessibility-first interaction design
 
 </details>
 
@@ -135,21 +140,21 @@ An AI-powered accessibility project designed to assist visually impaired users t
 
 A computer-vision-oriented project focused on monitoring study activity and creating a smarter learning environment.
 
-| Category    | Details                                                                       |
-| ----------- | ----------------------------------------------------------------------------- |
-| Stack       | Python • Computer Vision • AI/ML                                              |
-| Scale       | Student productivity and monitoring                                           |
-| Performance | Designed for real-time monitoring workflows                                   |
-| Security    | Local/application-controlled processing approach                              |
-| Impact      | Supports focused and structured study sessions                                |
-| Repository  | [Smart Study Monitor](https://github.com/codewithyogeshh/Smart_Study_Monitor) |
+| Category | Details |
+|---|---|
+| Stack | Python • Computer Vision • AI/ML |
+| Scale | Student productivity and monitoring |
+| Performance | Designed for real-time monitoring workflows |
+| Security | Local/application-controlled processing approach |
+| Impact | Supports focused and structured study sessions |
+| Repository | [GitHub](https://github.com/codewithyogeshh/Smart_Study_Monitor) |
 
 **Engineering Focus**
 
-* Computer vision
-* Activity monitoring
-* Productivity-oriented workflows
-* AI-assisted analysis
+- Computer vision
+- Activity monitoring
+- Productivity-oriented workflows
+- AI-assisted analysis
 
 </details>
 
@@ -160,22 +165,22 @@ A computer-vision-oriented project focused on monitoring study activity and crea
 
 A computer-vision project that analyzes body posture through a camera and provides pose suggestions for photography.
 
-| Category    | Details                                                               |
-| ----------- | --------------------------------------------------------------------- |
-| Stack       | Python • MediaPipe • OpenCV • Streamlit                               |
-| Scale       | Real-time camera-based pose assistance                                |
-| Performance | Real-time pose estimation workflow                                    |
-| Security    | Camera access controlled by the application/browser                   |
-| Impact      | Helps users improve pose alignment for photographs                    |
-| Repository  | [Pose_Suggestion](https://github.com/codewithyogeshh/Pose_Suggestion) |
+| Category | Details |
+|---|---|
+| Stack | Python • MediaPipe • OpenCV • Streamlit |
+| Scale | Real-time camera-based pose assistance |
+| Performance | Real-time pose estimation workflow |
+| Security | Camera access controlled by the application/browser |
+| Impact | Helps users improve pose alignment for photographs |
+| Repository | [Pose_Suggestion](https://github.com/codewithyogeshh/Pose_Suggestion) |
 
 **Engineering Focus**
 
-* Pose estimation
-* Camera-based computer vision
-* Pose comparison
-* Real-time feedback
-* Streamlit application development
+- Pose estimation
+- Camera-based computer vision
+- Pose comparison
+- Real-time feedback
+- Streamlit application development
 
 </details>
 
@@ -186,21 +191,21 @@ A computer-vision project that analyzes body posture through a camera and provid
 
 An academic productivity system focused on organizing attendance, due dates and academic calculations.
 
-| Category    | Details                                           |
-| ----------- | ------------------------------------------------- |
-| Stack       | Web Technologies • Database Integration           |
-| Scale       | Student academic management                       |
-| Performance | Designed for quick academic tracking              |
-| Security    | Application-level data handling                   |
-| Impact      | Centralizes common student academic workflows     |
-| Repository  | [Edu-Tracker](https://github.com/codewithyogeshh) |
+| Category | Details |
+|---|---|
+| Stack | Web Technologies • Database Integration |
+| Scale | Student academic management |
+| Performance | Designed for quick academic tracking |
+| Security | Application-level data handling |
+| Impact | Centralizes common student academic workflows |
+| Repository | [GitHub](https://github.com/codewithyogeshh) |
 
 **Engineering Focus**
 
-* Attendance tracking
-* Due-date management
-* Academic calculations
-* Student productivity workflows
+- Attendance tracking
+- Due-date management
+- Academic calculations
+- Student productivity workflows
 
 </details>
 
@@ -210,17 +215,17 @@ An academic productivity system focused on organizing attendance, due dates and 
 
 ### Student Developer & Project Builder
 
-**Academic, Personal & Hackathon Projects**
+**Academic, Personal & Hackathon Projects**  
 **2024 — Present**
 
 Focused on transforming software ideas into functional prototypes and applications across AI, full-stack development, mobile development and productivity systems.
 
-* Develop software solutions around real-world problem statements
-* Build and integrate AI-powered application features
-* Work with web, mobile and backend technologies
-* Design project workflows and technical architectures
-* Prepare project documentation and technical presentations
-* Explore modern developer tools and AI-assisted development workflows
+- Develop software solutions around real-world problem statements
+- Build and integrate AI-powered application features
+- Work with web, mobile and backend technologies
+- Design project workflows and technical architectures
+- Prepare project documentation and technical presentations
+- Explore modern developer tools and AI-assisted development workflows
 
 **Skills:** `Java` `Python` `TypeScript` `React` `Flutter` `SQL` `Supabase` `AI/ML` `Git` `GitHub`
 
@@ -230,10 +235,9 @@ Focused on transforming software ideas into functional prototypes and applicatio
 
 <div align="center">
 
-| Recognition             | Details                                                      |
-| ----------------------- | ------------------------------------------------------------ |
-| Cummins Scholar         | Recognized as a Cummins Scholar                              |
-| Hackathon Participation | Building software solutions for hackathon problem statements |
+| Recognition | Details |
+|---|---|
+| Hackathon Participation | Building software solutions for real-world hackathon problem statements |
 
 </div>
 
@@ -241,21 +245,7 @@ Focused on transforming software ideas into functional prototypes and applicatio
 
 ## Certifications
 
-### AWS
-
-Currently building practical cloud knowledge and application experience.
-
-### Oracle
-
-Developing Java and database-oriented software engineering skills.
-
-### NPTEL
-
-Academic and technical learning through structured coursework.
-
-### Cisco
-
-Exploring networking and foundational infrastructure concepts.
+Certification details will be added here once verified.
 
 ---
 
@@ -358,42 +348,3 @@ Open To:
   - Full-stack development
   - Hackathons
   - Open-source collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:yogeshchavan2a@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/yogesh-chavan2a/">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/codewithyogeshh">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://myportfolio-yogeshh.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-> **Build with purpose. Learn continuously. Engineer solutions that matter.**
-
-<br>
-
-<a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:312e81&height=120&section=footer" width="100%" />
-</a>
-
-</div>
