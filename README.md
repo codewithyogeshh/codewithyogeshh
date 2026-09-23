@@ -315,7 +315,9 @@ Certification details will be added here once verified.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/codewithyogeshh/codewithyogeshh/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/codewithyogeshh/codewithyogeshh/output/github-contribution-grid-snake-dark.svg"
+     width="100%"
+     alt="GitHub Contribution Snake Dark" />
 
 </div>
 
