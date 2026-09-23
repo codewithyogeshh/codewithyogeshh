@@ -1,24 +1,96 @@
-# 💫 About Me:
-<br><br>CSE Student | AI Enthusiast | Builder 🚀<br><br>I turn ideas into working software — exploring AI, automation, and full-stack development while building real-world projects.<br><br>🔭 Building: AI apps & smart automation<br>👯 Collaborating: AI, Open Source & Hackathons<br>🤝 Exploring: Scalable systems & advanced AI<br>🌱 Learning: AI/ML, Full-Stack & Cloud<br>💬 Ask me about: Projects, AI & Development<br>⚡ Fun fact: I build first, figure it out along the way. 😄
+<div align="center">
 
+# Hi, I'm Yogesh Chavan 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogesh_v2.0) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yogesh2a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshchavan2a@gmail.com) 
+### Final Year CSE Student • AI & Software Developer • Builder
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=codewithyogeshh&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=codewithyogeshh&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithyogeshh&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build practical software projects across **AI, full-stack development, mobile apps, and automation** — with a focus on turning real-world problems into usable products.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codewithyogeshh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://github.com/codewithyogeshh"><img src="https://img.shields.io/badge/GitHub-codewithyogeshh-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/yogesh-chavan2a"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Chavan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yogeshchavan2a@gmail.com"><img src="https://img.shields.io/badge/Email-yogeshchavan2a%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=codewithyogeshh&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Final-year **Computer Science & Engineering** student
+- 💻 Interested in **AI, full-stack development, mobile development, and data-driven applications**
+- 🤖 Exploring **Agentic AI** and AI-powered software solutions
+- 🚀 Building projects that solve practical problems rather than just demonstrating technology
+- 🤝 Open to collaborating on meaningful software, AI, and open-source projects
+- 📚 Continuously improving problem-solving, development, and engineering skills
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Web & App Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend, Database & AI
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🦯 VisionMate — AI Navigation Assistance System
+AI-powered accessibility project focused on helping visually impaired users understand their surroundings through AI-assisted scene analysis, voice interaction, navigation support, and real-time assistance.
+
+### 📚 Smart Study Monitor
+A computer-vision based project focused on monitoring study activity and providing intelligent assistance for a more focused learning environment.
+
+### 📸 Pose Suggestion
+AI-powered pose assistance application using computer vision and pose estimation to analyze posture, compare target poses, and provide actionable feedback.
+
+### 🎓 Edu-Tracker
+Academic organizer focused on **attendance tracking, due-date management, and CGPA calculation** in one place.
+
+> See my repositories for the complete collection of projects and experiments.
+
+## 🧠 Currently Exploring
+
+- Artificial Intelligence & Machine Learning
+- Agentic AI
+- Data Analytics & Data Science
+- Full-Stack Web Development
+- Flutter Application Development
+- Building reliable AI-powered products
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithyogeshh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyogeshh&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</div>
+
+## 🤝 Let's Connect
+
+I'm interested in **software development, AI projects, hackathons, open-source collaboration, and opportunities to build useful technology**.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yogesh-chavan2a)
+- 💻 [GitHub](https://github.com/codewithyogeshh)
+- 📧 [Email](mailto:yogeshchavan2a@gmail.com)
+
+---
+
+<div align="center">
+
+**Build. Learn. Ship. Improve. 🚀**
+
+</div>
