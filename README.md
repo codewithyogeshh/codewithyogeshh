@@ -40,7 +40,7 @@
 ## Momentum
 
 <table>
-<tr><td align="center"><b>13</b><br/><sub>repos</sub></td><td align="center"><b>4</b><br/><sub>stars</sub></td><td align="center"><b>64</b><br/><sub>contributions</sub></td></tr>
+<tr><td align="center"><b>133</b><br/><sub>repos</sub></td><td align="center"><b>4.2k</b><br/><sub>stars</sub></td><td align="center"><b>64</b><br/><sub>contributions</sub></td></tr>
 </table>
 
 ## Start a conversation
