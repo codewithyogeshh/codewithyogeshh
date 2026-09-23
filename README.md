@@ -295,7 +295,7 @@ Certification details will be added here once verified.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codewithyogeshh&theme=discord&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=codewithyogeshh&theme=discord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
@@ -305,7 +305,7 @@ Certification details will be added here once verified.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyogeshh&bg_color=0D1117&color=C4B5FD&line=6366F1&point=8B5CF6&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyogeshh&bg_color=0D1117&color=C4B5FD&line=6366F1&point=8B5CF6&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
 
@@ -315,7 +315,7 @@ Certification details will be added here once verified.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/codewithyogeshh/codewithyogeshh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/codewithyogeshh/codewithyogeshh/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
