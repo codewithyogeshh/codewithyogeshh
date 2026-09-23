@@ -114,5 +114,10 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/codewithyogeshh">GitHub</a></td>
 </tr>
 </table>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/codewithyogeshh/codewithyogeshh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 <p align="center"><sub>Yogesh Chavan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
