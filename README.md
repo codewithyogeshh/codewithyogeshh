@@ -1,1 +1,1 @@
-![Docs](https://coolreadme.xyz/api/docs-card?pkg=my-package&version=1.0.0&desc=A%20fast%20TypeScript%20SDK&install=npm%20install%20my-package&theme=langchain)
+![GitHub Stats](https://coolreadme.xyz/api/stats-card?user=Codewithyogeshh&theme=dark&accent=%2300FF88)
