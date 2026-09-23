@@ -16,7 +16,7 @@
 
 > Building useful things and learning in public.
 
-- 👥 **30k** followers · **8** following
+- 👥 **30k** followers · **2768** following
 
 *Small, useful work over vague claims.*
 
@@ -26,7 +26,7 @@
   <img src="https://www.gitskins.com/api/section/highlights?username=codewithyogeshh&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177595591%3Fu%3D48893cac82872ef6e106d884be3934bc09397f04%26v%3D4" alt="codewithyogeshh highlights visual" />
 </p>
 
-<p><b>Yogesh Chavan</b> is shipping 13 public projects with 4 stars of proof.</p>
+<p><b>Yogesh Chavan</b> is shipping 13 public projects with 4.2k stars of proof.</p>
 
 ## Products and proof
 
