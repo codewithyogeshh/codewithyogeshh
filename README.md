@@ -26,13 +26,13 @@
   <img src="https://www.gitskins.com/api/section/highlights?username=codewithyogeshh&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177595591%3Fu%3D48893cac82872ef6e106d884be3934bc09397f04%26v%3D4" alt="codewithyogeshh highlights visual" />
 </p>
 
-<p><b>Yogesh Chavan</b> is shipping 13 public projects with 4.2k stars of proof.</p>
+<p><b>Yogesh Chavan</b> is shipping 133 public projects with 4.2k stars of proof.</p>
 
 ## Products and proof
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/codewithyogeshh/My_portfolio-x">My_portfolio-x</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 1 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/codewithyogeshh/illeus">illeus</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/codewithyogeshh/My_portfolio-x">My_portfolio-x</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 127 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/codewithyogeshh/illeus">illeus</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 187 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/codewithyogeshh/Smart_Study_Monitor">Smart_Study_Monitor</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 1 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/codewithyogeshh/codewithyogeshh">codewithyogeshh</a></b></td><td>Config files for my GitHub profile.<br/><sub>open source · 1 stars</sub></td></tr>
 </table>
