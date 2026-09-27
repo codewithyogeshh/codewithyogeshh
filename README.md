@@ -13,11 +13,6 @@
 </p>
 
 ---
-
-# 💫 About Me:
-Hi, I'm Yogesh Chavan<br><br>🎓 Final-Year Computer Science & Engineering Student<br>💻 Java Full-Stack & Flutter Developer<br>🤖 Exploring AI, Agentic AI & Data Science<br>🚀 Building real-world projects that solve practical problems<br><br>I enjoy turning ideas into useful software — from AI-powered applications and web platforms to mobile apps and productivity tools.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AutophileEgolifter) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogesh_v2.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-chavan2a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshchavan2a@gmail.com) 
 
