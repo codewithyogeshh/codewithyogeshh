@@ -14,182 +14,33 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 💫 About Me:
+Hi, I'm Yogesh Chavan<br><br>🎓 Final-Year Computer Science & Engineering Student<br>💻 Java Full-Stack & Flutter Developer<br>🤖 Exploring AI, Agentic AI & Data Science<br>🚀 Building real-world projects that solve practical problems<br><br>I enjoy turning ideas into useful software — from AI-powered applications and web platforms to mobile apps and productivity tools.
 
-```java
-public class YogeshChavan {
 
-    String role = "Final-Year Computer Science & Engineering Student";
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Autophile Egolifter) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogesh_v2.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-chavan2a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshchavan2a@gmail.com) 
 
-    String[] interests = {
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Agentic AI",
-        "Data Science",
-        "Mobile App Development",
-        "Problem Solving"
-    };
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=codewithyogeshh&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=codewithyogeshh&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithyogeshh&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    String[] currentlyLearning = {
-        "Advanced Java",
-        "React + TypeScript",
-        "AI Engineering",
-        "Agentic AI",
-        "System Design"
-    };
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codewithyogeshh&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-    String mindset =
-        "Learn → Build → Break → Fix → Improve";
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-    String goal =
-        "Build impactful software that solves real-world problems.";
-}
-```
-
-I'm a **Computer Science & Engineering student** who enjoys turning ideas into practical software.
-
-I like working across the stack — from designing interfaces and building APIs to integrating databases and AI services.
-
-Currently exploring **AI-powered applications, Agentic AI, full-stack development, Flutter, and data-driven solutions.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codewithyogeshh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=codewithyogeshh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚡ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,sql,html,css" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql,firebase" />
-</p>
-
-### 📱 Mobile & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,python" />
-</p>
-
-**AI / APIs:** Gemini AI • Agentic AI • REST APIs • AI-powered applications
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍱 FoodBridge
-
-A technology platform designed to connect **surplus food with NGOs, volunteers, and people in need**.
-
-**Highlights**
-
-* NGO verification
-* Food donation management
-* Volunteer pickup coordination
-* Reservation locking
-* Pickup tracking
-* Impact analytics
-
-`React` `TypeScript` `Supabase` `AI`
-
-</td>
-
-<td width="50%">
-
-### 👁️ VisionMate
-
-AI-powered navigation assistance designed to help visually impaired users interact more independently with their surroundings.
-
-**Highlights**
-
-* AI scene analysis
-* Object recognition
-* Voice interaction
-* Navigation assistance
-* Obstacle awareness
-* Image-based Q&A
-
-`AI` `Gemini API` `Flutter`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Edu-Tracker
-
-An academic productivity platform for students.
-
-**Features**
-
-* Attendance tracking
-* Assignment deadlines
-* CGPA calculator
-* Academic dashboard
-* Productivity tracking
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-### 🤖 NEXA AI Assistant
-
-A personal AI assistant project focused on automation and desktop interaction.
-
-**Exploring**
-
-* AI assistants
-* Automation
-* Voice interaction
-* Desktop control
-* Agentic workflows
-
-`Python` `PyAutoGUI` `AI`
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithyogeshh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyogeshh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithyogeshh&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🐍 Contribution Graph
 
