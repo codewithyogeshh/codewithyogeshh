@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yogesh Chavan
 
-### `Final-Year CSE Student` • `Full-Stack Developer` • `AI Explorer` • `Problem Solver`
+### `Final-Year CSE Student` • `Full-Stack Developer` • `AI Explorer` • `Problem Solver` 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=700&lines=Building+real-world+software+%F0%9F%9A%80;Exploring+AI+%26+Agentic+AI+%F0%9F%A4%96;Java+Full-Stack+%7C+React+%7C+Flutter;Turning+ideas+into+working+products+%F0%9F%92%A1" alt="Typing SVG" />
 
